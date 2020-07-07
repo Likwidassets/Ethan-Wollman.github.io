@@ -34,7 +34,7 @@ footer, header, hgroup, menu, nav, section {
 	z-index: 1000;
     padding-top: 30px;
     position: fixed;
-    height: 120px;
+    width: 7.5%;
     padding-left: 20px;
 }
 
